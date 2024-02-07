@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-
+//IGS
 namespace ApexRestaurant.Services
 {
 public interface IGenericService<T>

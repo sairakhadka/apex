@@ -6,6 +6,7 @@ namespace ApexRestaurant.Repository
 {
 public static class RepositoryModule
 {
+// RM
 public static void Register(IServiceCollection services, string connection,
 string migrationsAssembly)
 {
